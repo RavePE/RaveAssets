@@ -1,2 +1,2 @@
 # RaveAssets
-RavePE's Assets
+Basically Just RavePE's assets free to use for everyone!
